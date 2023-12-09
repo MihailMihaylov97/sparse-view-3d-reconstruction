@@ -1,0 +1,3 @@
+zero123_weight, radius, polar, azimuth, image
+4, 3.2, 90, 0, images/final_bag_left_rgba.png
+1, 3, 90, 90, images/final_bag_right_rgba.png
